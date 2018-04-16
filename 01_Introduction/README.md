@@ -5,7 +5,7 @@ This section covers: Vectors
 ## Sections to be covered
 1. [Random Movement](01_random_movement)
 2. [Random Movemment Directions](02_random_movement_with_9_directions)
-3. [Proviing Uniform Distrabution](03_proof_of_uniform_distribution)
+3. [Proving Uniform Distrabution](03_proof_of_uniform_distribution)
 4. [Proving Non Uniform Distrabution](04_array_probability_and_non_uniform_distribution)
 5. [Probability using if and else statements](05_if_else_probability)
 6. [Gaussian Distribution](06_Gaussian_distribution_in_one_plane)
